@@ -1,0 +1,22 @@
+# macOS / Linux junk
+.DS_Store
+Thumbs.db
+
+# Editor state
+.vscode/
+.idea/
+*.swp
+*~
+
+# Backup files install.sh creates
+*.backup-*
+
+# Anything that looks like creds — defensive
+*.credentials.json
+*auth.json
+*token*
+.env
+.env.*
+
+# In case a future script writes here
+/tmp/

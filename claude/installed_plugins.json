@@ -1,0 +1,219 @@
+{
+  "version": 2,
+  "plugins": {
+    "context7@claude-plugins-official": [
+      {
+        "scope": "project",
+        "projectPath": "/home/aaqeb_ahmed/Desktop/devstuff/pnow-ats-v2",
+        "installPath": "/home/aaqeb_ahmed/.claude/plugins/cache/claude-plugins-official/context7/unknown",
+        "version": "unknown",
+        "installedAt": "2026-03-30T09:31:54.163Z",
+        "lastUpdated": "2026-05-06T17:47:32.370Z"
+      },
+      {
+        "scope": "user",
+        "installPath": "/home/aaqeb_ahmed/.claude/plugins/cache/claude-plugins-official/context7/unknown",
+        "version": "unknown",
+        "installedAt": "2026-04-23T20:07:47.987Z",
+        "lastUpdated": "2026-04-27T17:48:58.404Z"
+      }
+    ],
+    "serena@claude-plugins-official": [
+      {
+        "scope": "project",
+        "projectPath": "/home/aaqeb_ahmed/Desktop/devstuff/pnow-ats-v2",
+        "installPath": "/home/aaqeb_ahmed/.claude/plugins/cache/claude-plugins-official/serena/unknown",
+        "version": "unknown",
+        "installedAt": "2026-03-30T09:31:54.163Z",
+        "lastUpdated": "2026-05-06T17:47:32.370Z"
+      },
+      {
+        "scope": "user",
+        "installPath": "/home/aaqeb_ahmed/.claude/plugins/cache/claude-plugins-official/serena/unknown",
+        "version": "unknown",
+        "installedAt": "2026-04-23T20:07:48.138Z",
+        "lastUpdated": "2026-04-27T17:48:58.406Z"
+      }
+    ],
+    "github@claude-plugins-official": [
+      {
+        "scope": "project",
+        "projectPath": "/home/aaqeb_ahmed/Desktop/devstuff/pnow-ats-v2",
+        "installPath": "/home/aaqeb_ahmed/.claude/plugins/cache/claude-plugins-official/github/unknown",
+        "version": "unknown",
+        "installedAt": "2026-03-30T09:31:54.163Z",
+        "lastUpdated": "2026-05-06T17:47:32.370Z"
+      }
+    ],
+    "linear@claude-plugins-official": [
+      {
+        "scope": "project",
+        "projectPath": "/home/aaqeb_ahmed/Desktop/devstuff/pnow-ats-v2",
+        "installPath": "/home/aaqeb_ahmed/.claude/plugins/cache/claude-plugins-official/linear/unknown",
+        "version": "unknown",
+        "installedAt": "2026-03-30T09:31:54.163Z",
+        "lastUpdated": "2026-05-06T17:47:32.370Z"
+      },
+      {
+        "scope": "user",
+        "installPath": "/home/aaqeb_ahmed/.claude/plugins/cache/claude-plugins-official/linear/unknown",
+        "version": "unknown",
+        "installedAt": "2026-04-23T20:08:00.877Z",
+        "lastUpdated": "2026-04-27T17:48:58.403Z"
+      }
+    ],
+    "figma@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/home/aaqeb_ahmed/.claude/plugins/cache/claude-plugins-official/figma/2.1.30",
+        "version": "2.1.30",
+        "installedAt": "2026-04-10T16:24:35.650Z",
+        "lastUpdated": "2026-04-28T19:04:46.267Z",
+        "gitCommitSha": "131e141b1f91fa4b4b6bc4b453fee1574d9f6e57"
+      }
+    ],
+    "superpowers@claude-plugins-official": [
+      {
+        "scope": "local",
+        "projectPath": "/home/aaqeb_ahmed/Desktop/devstuff/pnow-ats-v2",
+        "installPath": "/home/aaqeb_ahmed/.claude/plugins/cache/claude-plugins-official/superpowers/5.1.0",
+        "version": "5.1.0",
+        "installedAt": "2026-04-13T15:11:56.618Z",
+        "lastUpdated": "2026-05-06T17:47:32.370Z",
+        "gitCommitSha": "917e5f53b16b115b70a3a355ed5f4993b9f8b73d"
+      }
+    ],
+    "frontend-design@claude-plugins-official": [
+      {
+        "scope": "local",
+        "projectPath": "/home/aaqeb_ahmed/Desktop/devstuff/pnow-ats-v2",
+        "installPath": "/home/aaqeb_ahmed/.claude/plugins/cache/claude-plugins-official/frontend-design/unknown",
+        "version": "unknown",
+        "installedAt": "2026-04-13T15:12:05.840Z",
+        "lastUpdated": "2026-05-06T17:47:32.370Z"
+      }
+    ],
+    "security-guidance@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/home/aaqeb_ahmed/.claude/plugins/cache/claude-plugins-official/security-guidance/unknown",
+        "version": "unknown",
+        "installedAt": "2026-04-13T15:12:27.769Z",
+        "lastUpdated": "2026-04-27T17:48:58.394Z"
+      }
+    ],
+    "code-review@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/home/aaqeb_ahmed/.claude/plugins/cache/claude-plugins-official/code-review/unknown",
+        "version": "unknown",
+        "installedAt": "2026-04-23T20:07:48.019Z",
+        "lastUpdated": "2026-04-27T17:48:58.390Z"
+      }
+    ],
+    "playwright@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/home/aaqeb_ahmed/.claude/plugins/cache/claude-plugins-official/playwright/unknown",
+        "version": "unknown",
+        "installedAt": "2026-04-23T20:07:48.035Z",
+        "lastUpdated": "2026-04-27T17:48:58.395Z"
+      }
+    ],
+    "feature-dev@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/home/aaqeb_ahmed/.claude/plugins/cache/claude-plugins-official/feature-dev/unknown",
+        "version": "unknown",
+        "installedAt": "2026-04-23T20:07:48.053Z",
+        "lastUpdated": "2026-04-27T17:48:58.392Z"
+      }
+    ],
+    "skill-creator@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/home/aaqeb_ahmed/.claude/plugins/cache/claude-plugins-official/skill-creator/unknown",
+        "version": "unknown",
+        "installedAt": "2026-04-23T20:07:48.071Z",
+        "lastUpdated": "2026-04-27T17:48:58.393Z"
+      }
+    ],
+    "ralph-loop@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/home/aaqeb_ahmed/.claude/plugins/cache/claude-plugins-official/ralph-loop/1.0.0",
+        "version": "1.0.0",
+        "installedAt": "2026-04-23T20:07:48.088Z",
+        "lastUpdated": "2026-04-23T20:07:48.088Z"
+      }
+    ],
+    "claude-code-setup@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/home/aaqeb_ahmed/.claude/plugins/cache/claude-plugins-official/claude-code-setup/1.0.0",
+        "version": "1.0.0",
+        "installedAt": "2026-04-23T20:07:48.105Z",
+        "lastUpdated": "2026-04-23T20:07:48.105Z"
+      }
+    ],
+    "pyright-lsp@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/home/aaqeb_ahmed/.claude/plugins/cache/claude-plugins-official/pyright-lsp/1.0.0",
+        "version": "1.0.0",
+        "installedAt": "2026-04-23T20:07:48.122Z",
+        "lastUpdated": "2026-04-23T20:07:48.122Z"
+      }
+    ],
+    "slack@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/home/aaqeb_ahmed/.claude/plugins/cache/claude-plugins-official/slack/1.0.0",
+        "version": "1.0.0",
+        "installedAt": "2026-04-23T20:07:49.156Z",
+        "lastUpdated": "2026-04-23T20:07:49.156Z",
+        "gitCommitSha": "7b9458950d38bb01ddb48b669f9fa89bcdfd98b8"
+      }
+    ],
+    "chrome-devtools-mcp@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/home/aaqeb_ahmed/.claude/plugins/cache/claude-plugins-official/chrome-devtools-mcp/0.22.0",
+        "version": "0.22.0",
+        "installedAt": "2026-04-23T20:07:52.516Z",
+        "lastUpdated": "2026-04-23T20:07:52.516Z",
+        "gitCommitSha": "a1612be8e01401cf1711c64bc2ef5da5763ba956"
+      }
+    ],
+    "semgrep@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/home/aaqeb_ahmed/.claude/plugins/cache/claude-plugins-official/semgrep/0.5.3",
+        "version": "0.5.3",
+        "installedAt": "2026-04-23T20:08:03.178Z",
+        "lastUpdated": "2026-04-23T20:08:03.178Z",
+        "gitCommitSha": "b5bab16514897d36de10ebb14ebd5437095d9b9d"
+      }
+    ],
+    "atomic-agents@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/home/aaqeb_ahmed/.claude/plugins/cache/claude-plugins-official/atomic-agents/f849087b26bb",
+        "version": "f849087b26bb",
+        "installedAt": "2026-04-23T20:08:06.211Z",
+        "lastUpdated": "2026-04-29T14:26:56.925Z",
+        "gitCommitSha": "734a8101b3a420adc3111502a0fe46e3ee4eccba"
+      }
+    ],
+    "vercel@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/home/aaqeb_ahmed/.claude/plugins/cache/claude-plugins-official/vercel/0.42.1",
+        "version": "0.42.1",
+        "installedAt": "2026-05-06T23:29:45.798Z",
+        "lastUpdated": "2026-05-06T23:29:45.798Z",
+        "gitCommitSha": "78de7b549d3a8e197759c0c61859a8ccb69647c4"
+      }
+    ]
+  }
+}
