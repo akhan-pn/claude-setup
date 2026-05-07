@@ -33,7 +33,6 @@ echo
 bold "1. Claude Code globals"
 backup_then_copy "$REPO_DIR/claude/CLAUDE.md"        "$HOME/.claude/CLAUDE.md"
 backup_then_copy "$REPO_DIR/claude/settings.json"    "$HOME/.claude/settings.json"
-backup_then_copy "$REPO_DIR/claude/skills/graphify"  "$HOME/.claude/skills/graphify"
 echo
 
 bold "2. OpenCode agents (user-global)"

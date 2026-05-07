@@ -32,12 +32,6 @@ PY
   ok "claude/settings.json (sanitized)"
 fi
 
-if [[ -d "$HOME/.claude/skills/graphify" ]]; then
-  rm -rf "$REPO_DIR/claude/skills/graphify"
-  cp -r "$HOME/.claude/skills/graphify" "$REPO_DIR/claude/skills/graphify"
-  ok "claude/skills/graphify"
-fi
-
 if [[ -f "$HOME/.claude/plugins/installed_plugins.json" ]]; then
   cp "$HOME/.claude/plugins/installed_plugins.json" "$REPO_DIR/claude/installed_plugins.json"
   ok "claude/installed_plugins.json"

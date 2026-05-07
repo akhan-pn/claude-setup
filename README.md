@@ -9,7 +9,6 @@ My personal Claude Code / OpenCode / Codex setup, packaged so I can bootstrap a 
 | `claude/CLAUDE.md` | `~/.claude/CLAUDE.md` | Global Claude Code instructions |
 | `claude/settings.json` | `~/.claude/settings.json` | Claude Code settings (sanitized — project-specific allow rules stripped) |
 | `claude/installed_plugins.json` | reference | List of plugins to reinstall via `/plugins install` |
-| `claude/skills/graphify/` | `~/.claude/skills/graphify/` | `/graphify` custom skill |
 | `opencode/agent/wshobson/` | `~/.config/opencode/agent/wshobson/` | 120 wshobson community agents (vendored from [wshobson/agents](https://github.com/wshobson/agents)) |
 | `codex/AGENTS.md` | `~/.codex/AGENTS.md` | Codex global agents |
 
@@ -30,7 +29,7 @@ cd ~/claude-setup
 ```
 
 `install.sh` will:
-1. Back up any existing `~/.claude/CLAUDE.md`, `~/.claude/settings.json`, `~/.claude/skills/graphify/`, `~/.config/opencode/agent/wshobson/`, `~/.codex/AGENTS.md` to `<file>.backup-<timestamp>`.
+1. Back up any existing `~/.claude/CLAUDE.md`, `~/.claude/settings.json`, `~/.config/opencode/agent/wshobson/`, `~/.codex/AGENTS.md` to `<file>.backup-<timestamp>`.
 2. Copy this repo's files into the right locations.
 3. Print the post-install checklist (auth login, plugin re-install, etc.).
 
