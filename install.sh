@@ -31,7 +31,6 @@ bold "Installing from $REPO_DIR"
 echo
 
 bold "1. Claude Code globals"
-backup_then_copy "$REPO_DIR/claude/CLAUDE.md"        "$HOME/.claude/CLAUDE.md"
 backup_then_copy "$REPO_DIR/claude/settings.json"    "$HOME/.claude/settings.json"
 echo
 

@@ -11,11 +11,6 @@ ok()   { printf '  \033[32m✓\033[0m %s\n' "$*"; }
 bold "Pulling current system state into $REPO_DIR"
 echo
 
-if [[ -f "$HOME/.claude/CLAUDE.md" ]]; then
-  cp "$HOME/.claude/CLAUDE.md" "$REPO_DIR/claude/CLAUDE.md"
-  ok "claude/CLAUDE.md"
-fi
-
 if [[ -f "$HOME/.claude/settings.json" ]]; then
   # Re-sanitize: strip absolute paths to ~/Desktop/devstuff (project-specific Bash allow rules)
   python3 - "$HOME/.claude/settings.json" "$REPO_DIR/claude/settings.json" <<'PY'
